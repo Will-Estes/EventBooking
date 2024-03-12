@@ -3,6 +3,9 @@
 #
 .idea
 
+eventbooking
+api.db
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
